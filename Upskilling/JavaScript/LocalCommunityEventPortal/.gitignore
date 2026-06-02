@@ -1,0 +1,24 @@
+# Node modules (if ever used)
+node_modules/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+temp/
+dist/
+build/
+
+# Ignore editor backup files
+*.swp
+*.swo
+
+# Ignore environment files (if added later)
+.env
